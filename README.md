@@ -105,7 +105,7 @@ Storytelling through data visualization
 
 If you liked this project or want to collaborate, connect with me on:
 
- [LinkedIn]( https://www.linkedin.com/in/ankita-c-4a1581212) |  GitHub](https://github.com/AnkitaChoubey/AnkitaChoubey)
+ [LinkedIn]( https://www.linkedin.com/in/ankita-c-4a1581212) | [GitHub](https://github.com/AnkitaChoubey/AnkitaChoubey)
 
 
 
