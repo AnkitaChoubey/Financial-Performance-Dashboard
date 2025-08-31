@@ -105,9 +105,9 @@ Storytelling through data visualization
 
 If you liked this project or want to collaborate, connect with me on:
 
-💼https://www.linkedin.com/in/ankita-c-4a1581212?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+💼https://www.linkedin.com/in/ankita-c-4a1581212?
 
-📂 https://github.com/AryanHarshHarinath/financial-performance-dashboard
+📂https://github.com/AnkitaChoubey/AnkitaChoubey
 
 
 
