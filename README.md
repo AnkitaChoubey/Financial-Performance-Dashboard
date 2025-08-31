@@ -6,7 +6,7 @@ The aim was to analyze sales, profit, and units sold across products, countries,
 
 ---
 
-🔧 Tools & Technologies Used
+# Tools & Technologies Used
 
 Excel → Data cleaning & preprocessing
 
@@ -24,7 +24,7 @@ GitHub → Documentation & version control
 
 ---
 
-📌 Project Workflow
+# Project Workflow
 
 1. Data Cleaning & Preparation (Excel)
 
@@ -64,7 +64,7 @@ Presented findings in a clear, business-friendly manner
 
 ---
 
-📊 Key Insights from Dashboard
+# Key Insights from Dashboard
 
 Total Sales: 118.73M
 
@@ -82,12 +82,12 @@ Units Sold: 1.13M
 
 ---
 
-📷 Dashboard Preview
+# Dashboard Preview
 
 <img width="1226" height="697" alt="Screenshot 2025-08-31 152922" src="https://github.com/user-attachments/assets/0106be40-026e-4527-8c54-deeb89821191" />
 <img width="1242" height="689" alt="Screenshot 2025-08-31 152851" src="https://github.com/user-attachments/assets/4c2461be-3508-451e-b8f5-0333fffe2741" />
 <img width="1218" height="689" alt="Screenshot 2025-08-31 153051" src="https://github.com/user-attachments/assets/aeeb27de-43c2-4fba-b2f4-644f6f0a60a8" />                                                                                                                                                                                             
-📈 Learnings
+# Learnings
 
 Hands-on experience with ETL (Extract, Transform, Load)
 
@@ -101,7 +101,7 @@ Storytelling through data visualization
 
 ---
 
-🤝 Connect With Me
+# Connect With Me
 
 If you liked this project or want to collaborate, connect with me on:
 
