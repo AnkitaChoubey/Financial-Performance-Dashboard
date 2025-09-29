@@ -25,38 +25,34 @@ GitHub → Documentation & version control
 ---
 
 ## Project Workflow
-
 1. Data Cleaning & Preparation (Excel)
 
-Removed duplicates, handled nulls, formatted columns
+   Removed duplicates, handled nulls, formatted columns
 
-Standardized date fields
-
+   Standardized date fields
 
 
 2. Data Exploration & Queries (SQL)
 
-Extracted top products & countries
+   Extracted top products & countries
 
-Calculated YoY growth in sales
+   Calculated YoY growth in sales
 
-Identified most profitable segments
-
+   Identified most profitable segments
 
 
 3. Dashboard Development (Power BI)
 
-Built interactive visualizations
+   Built interactive visualizations
 
-Used DAX for Total Sales, Total Profit & YoY Sales %
+   Used DAX for Total Sales, Total Profit & YoY Sales %
 
-Implemented slicers for Year, Segment & Country
-
+   Implemented slicers for Year, Segment & Country
 
 
 4. Storytelling & Reporting (PowerPoint)
 
-Presented findings in a clear, business-friendly manner
+   Presented findings in a clear, business-friendly manner
 
 
 
